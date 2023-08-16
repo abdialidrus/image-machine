@@ -30,4 +30,4 @@ follows Android design and development best practices.
 
 ![architecture](https://github.com/abdialidrus/image-machine/assets/20806662/56601362-313b-4fff-876e-67b9c56c7d1e)
 
-The overall architecture of **Image Machine** is composed of two layers; the Business layer and the Data/Framework layer. Each layer has dedicated components and they have each different responsibilities.
+The overall architecture of **Image Machine** is composed of two layers; the Business layer and the Data/Framework layer. Each layer has dedicated components and they have each different responsibilities. In **Image Machine** case we only have a single data source which is local/cache.
